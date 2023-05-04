@@ -155,9 +155,9 @@
       -%}
 
       <a href="{{ card_product.url | within: card_collection }}" class="card__media media-wrapper" tabindex="-1">
-        <div class="image-animate media media--{{ media_size }} media--hover-effect{% unless enable_image_fill %} media--image-contain{% endunless %}"
+        <div class="add_swym-wrapper-collection image-animate media media--{{ media_size }} media--hover-effect{% unless enable_image_fill %} media--image-contain{% endunless %}"
           {%- if media_size == 'adapt' %} style="--image-ratio-percent: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif -%}
-        >
+        >          
           {%- capture sizes -%}(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 130 | divided_by: 4 }}px, (min-width: 990px) calc((100vw - 10rem) / 4), (min-width: 750px) calc((100vw - 10rem) / 3), calc(100vw - 3rem){%- endcapture -%}
           {%- liquid
             assign image_loading = 'eager'
@@ -177,6 +177,11 @@
               echo image_2nd.preview_image | image_url: width: 1100 | image_tag: loading: image_loading, class: 'motion-reduce', sizes: sizes, widths: widths, alt: alt_2nd, is: 'lazy-image'
             endif
           -%}
+
+          <!-- Swym Wishlist Plus EPI Button-->
+            <button data-with-epi="true" class="add_swym-button-collection swym-button swym-add-to-wishlist-view-product product_{{card_product.id}}" data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}" data-variant-id="{{card_product.variants[0].id}}" data-product-url="{{ shop.url }}{{ card_product.url }}"></button>
+          <!-- Swym Wishlist Plus EPI Button-->
+          
         </div>
       </a>
     {%- else -%}
@@ -189,6 +194,27 @@
       </div>
     {%- endif -%}
   </use-animate>
+
+  
+  <!-- Swym Wishlist Plus EPI Button Style-->
+  <style>
+    .add_swym-wrapper-collection{
+      position: relative;
+    }
+    .add_swym-button-collection{
+      width: 30px !important;
+      height: 30px !important;
+      background: #FFFFFFCC !important;
+      border-radius: 15px !important;
+      position: absolute !important;
+      top: auto !important;
+      bottom: 5px !important;
+      left: auto !important;
+      right: 5px !important;
+      opacity: 1 !important;
+    }
+  </style>
+  <!-- END:Swym Wishlist Plus EPI Button Style-->
 
   <div class="card-information">
     <div class="card-information__wrapper">

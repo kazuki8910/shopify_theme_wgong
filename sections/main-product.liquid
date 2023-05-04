@@ -55,7 +55,7 @@
     <product-recently-viewed data-product-id="{{ product.id }}" class="hidden"></product-recently-viewed>
     <div class="grid__item product__media-wrapper">
       <span id="ProductImages"></span>
-      <media-gallery id="MediaGallery-{{ section.id }}" role="region"{% if section.settings.enable_sticky_info %} class="product__media-gallery"{% endif %} aria-label="{{ 'products.product.media.gallery_viewer' | t }}" data-desktop-layout="{{ section.settings.gallery_layout }}">
+      <media-gallery id="MediaGallery-{{ section.id }}" role="region" class="add_swym-wrapper-product {% if section.settings.enable_sticky_info %}product__media-gallery{% endif %}" aria-label="{{ 'products.product.media.gallery_viewer' | t }}" data-desktop-layout="{{ section.settings.gallery_layout }}">
         <div id="GalleryStatus-{{ section.id }}" class="visually-hidden" role="status"></div>
         <use-animate data-animate="zoom-fade">
           <product-gallery id="GalleryViewer-{{ section.id }}" class="slider-mobile-gutter slider-mobile--overlay">
@@ -487,7 +487,44 @@
           </div>
           <script src="{{ 'product-thumbnails.js' | asset_url }}" defer="defer"></script>
         {%- endif -%}
+        
+        <!-- Swym Wishlist Plus EPI Button-->
+        <button data-with-epi="true" class="add_swym-button-product swym-button swym-add-to-wishlist-view-product product_{{product.id}}" data-swaction="addToWishlist" data-product-id="{{product.id | json}}" data-variant-id="{{product.variants[0].id}}" data-product-url="{{ shop.url }}{{ product.url }}"></button>
+        <!-- Swym Wishlist Plus EPI Button-->
+                
+        <!-- Swym Wishlist Plus EPI Button Style-->
+        <style>
+          .add_swym-wrapper-product{
+            position: relative;
+          }
+          .add_swym-button-product{
+            width: 50px !important;
+            height: 50px !important;
+            background: #FFFFFFCC !important;
+            border-radius: 25px !important;
+            position: absolute !important;
+            opacity: 1 !important;
+            top: auto !important;
+            left: auto !important;
+            bottom: 113px !important;
+            right: 10px !important;
+          }
+          .add_swym-button-product::after{
+            font-size: 25px;
+            line-height: 50px !important;
+          }
+
+          @media (max-width: 749px) {
+            /* 横幅が320px以下の場合に適用するスタイル */
+            .add_swym-button-product{
+              bottom: 77px !important;
+            }
+          }
+        </style>
+        <!-- END:Swym Wishlist Plus EPI Button Style-->
+
       </media-gallery>
+
     </div>
 
     {%- liquid
