@@ -54,6 +54,10 @@
       endif
     -%}
 
+    {% comment %} 追加CSS読み込み {% endcomment %}
+    <link rel="stylesheet" href="{{ 'add.css' | asset_url }}">
+    {% comment %} END:追加CSS読み込み {% endcomment %}
+
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}

@@ -1,0 +1,45 @@
+.add_swym-wrapper-collection {
+  position: relative;
+}
+
+.add_swym-button-collection {
+  width: 30px !important;
+  height: 30px !important;
+  background: #FFFFFFCC !important;
+  border-radius: 15px !important;
+  position: absolute !important;
+  top: auto !important;
+  bottom: 5px !important;
+  left: auto !important;
+  right: 5px !important;
+  opacity: 1 !important;
+}
+
+.add_swym-wrapper-product {
+  position: relative;
+}
+
+.add_swym-button-product {
+  width: 50px !important;
+  height: 50px !important;
+  background: #FFFFFFCC !important;
+  border-radius: 25px !important;
+  position: absolute !important;
+  opacity: 1 !important;
+  top: auto !important;
+  left: auto !important;
+  bottom: 113px !important;
+  right: 10px !important;
+}
+
+@media (max-width: 749px) {
+  .add_swym-button-product {
+    bottom: 77px !important;
+  }
+}
+
+.add_swym-button-product::after {
+  font-size: 25px;
+  line-height: 50px !important;
+}
+/*# sourceMappingURL=add.css.map */
