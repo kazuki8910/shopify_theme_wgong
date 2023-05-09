@@ -173,7 +173,7 @@
         "media_position": "left",
         "media_size": "medium",
         "gallery_layout": "thumbnail_slider",
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_thumbnails": true,
         "hide_variants": false,
         "enable_image_zoom": false,
