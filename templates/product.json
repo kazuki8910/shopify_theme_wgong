@@ -73,6 +73,14 @@
           "settings": {
           }
         },
+        "ed9b1a94-726c-4a82-9662-e42a5c993ac6": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "※サイズは平置きで採寸しております。若干の誤差（1~3cm程度）が生じる場合がございますことを予めご了承ください。",
+            "text_style": "body"
+          }
+        },
         "da723175-85e3-41bd-b09e-8398cde6bf32": {
           "type": "spacing",
           "settings": {
@@ -158,6 +166,7 @@
         "share",
         "10801732-419d-4705-b115-2de69beca8cb",
         "description",
+        "ed9b1a94-726c-4a82-9662-e42a5c993ac6",
         "da723175-85e3-41bd-b09e-8398cde6bf32",
         "c43a3c01-6505-4f9c-ac44-7b250d73a3bb",
         "8ae64b32-8a10-4324-8d0d-7bfac2e41c40",
