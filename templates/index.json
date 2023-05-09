@@ -1,1 +1,437 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/WGONG_WEB1.jpg","image_mobile":"shopify:\/\/shop_images\/WGONG-IPHONE-FV_0002_WGONG_SS06_0002_O1CN01GoRFle2MxVPk2VCX6__2209396279894-0-cib.jpg","image_position":"center center","text_box_position":"bottom-left","subheading":"","subheading_size":"h5","heading":"","heading_size":"h0","heading_tag":"h2","text":"","text_size":"typeset2","button_label":"","button_link":"","button_size":"medium","button_style_secondary":false}},"e88036ed-6f8c-470e-8f73-0f6e57fb14af":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/WGONG_WEB_PC_HEAD45.jpg","image_mobile":"shopify:\/\/shop_images\/WGONG-IPHONE_FV_0012_WGONG_LS08_0006__2023-03-30_17.47.59_14967609-8b72-4c0a-a7e5-0383abae9da3.jpg","image_position":"center center","text_box_position":"middle-center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h1","heading_tag":"h2","text":"","text_size":"typeset","button_label":"","button_link":"","button_size":"medium","button_style_secondary":false}},"8273e893-9220-4196-b44c-d830e02f08ad":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/WGONG_FV_PC-02.jpg","image_mobile":"shopify:\/\/shop_images\/WGONG-IPHONE_FV_0011_WGONG_PANTS_0009_O1CN0125OXvd1koqYwOpaS7__2207858474731-0-cib_2.jpg","image_position":"center center","text_box_position":"middle-center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h1","heading_tag":"h2","text":"","text_size":"typeset","button_label":"","button_link":"","button_size":"medium","button_style_secondary":false}},"63b26f88-d7aa-4112-a8fd-18a9c56952ec":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/WGONG_FV-PC_45-01.jpg","image_mobile":"shopify:\/\/shop_images\/WGONG-IPHONE-FV_0003_WGONG_SS06_0001_O1CN01hAUX922MxVPpzTvzz__2209396279894-0-cib.jpg","image_position":"center center","text_box_position":"middle-center","subheading":"","subheading_size":"h5","heading":"","heading_size":"h1","heading_tag":"h2","text":"","text_size":"typeset","button_label":"","button_link":"","button_size":"medium","button_style_secondary":false}}},"block_order":["slide-0","e88036ed-6f8c-470e-8f73-0f6e57fb14af","8273e893-9220-4196-b44c-d830e02f08ad","63b26f88-d7aa-4112-a8fd-18a9c56952ec"],"settings":{"slideshow_type":"legacy","text_alignment":"left","image_ratio":"adapt_first","autorotate":false,"autorotate_speed":5,"full_width":true,"mobile_text_alignment":"left","mobile_image_ratio":"adapt_first","show_text_below":false,"colors_button_label":"#1a1b18","colors_button_background":"#ffffff","colors_text":"#ffffff","colors_background":"#ffffff","colors_overlay":"#1a1b18","colors_overlay_opacity":16,"colors_navigation_text":"#ffffff","colors_navigation_background":"#1a1b18","padding_top":0,"padding_bottom":36}},"featured-collection":{"type":"featured-collection","settings":{"collection":"ranking","products_to_show":32,"show_view_all":true,"show_divider":false,"heading":"WEEKLY RANKING TOP30","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"adapt","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"secondary_image_max":1,"show_vendor":false,"show_rating":false,"show_quick_buy":false,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}},"66acfd37-4124-47ed-9656-7f28c702ceb3":{"type":"guarantees","blocks":{"template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-1":{"type":"guarantee","settings":{"icon":"return","icon_size":"large","custom_icon":"","title":"無料でサイズ交換","title_size":"h4","text":"<p>ご購入前に<a href=\"https:\/\/line.me\/R\/oaMessage\/@999dwadz\" target=\"_blank\" title=\"公式LILNE\">公式LINE<\/a>よりサイズ相談頂いたお客様に限り、無料でサイズ交換可能です。<\/p>"}},"template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-0":{"type":"guarantee","settings":{"icon":"truck","icon_size":"large","custom_icon":"","title":"¥15,000以上ご購入で送料無料","title_size":"h4","text":"<p>合計¥15,000以上ご購入いただいたお客様の送料無料キャンペーン実施中<\/p>"}},"d0426cb7-e5db-4c18-abd6-46e4b2ade00c":{"type":"guarantee","settings":{"icon":"price_tag","icon_size":"large","custom_icon":"","title":"LINE登録で10%OFF","title_size":"h4","text":"<p>友達登録いただいたお客様<br\/>全員にプレゼント<\/p>"}},"7e0ba804-78c8-4167-8fcd-499387d2c7af":{"type":"guarantee","settings":{"icon":"stopwatch","icon_size":"large","custom_icon":"","title":"お届け時期","title_size":"h4","text":"<p>決済完了から14営業日以内にお届けいたします<\/p>"}}},"block_order":["template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-1","template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-0","d0426cb7-e5db-4c18-abd6-46e4b2ade00c","7e0ba804-78c8-4167-8fcd-499387d2c7af"],"settings":{"layout":"default","column_alignment":"center","horizontal_content":false,"full_width":false,"show_divider":false,"heading":"","heading_size":"h1","heading_tag":"h2","columns_mobile":"1","swipe_on_mobile":true,"use_custom_colors":true,"colors_icon":"#efefef","colors_text":"#1c1b1b","colors_background":"#ffffff","gradient_background":"","padding_top":76,"padding_bottom":76}},"67933b39-cfa5-47c2-9e50-ceab6e735619":{"type":"featured-collection","settings":{"collection":"all-products","products_to_show":12,"show_view_all":true,"show_divider":false,"heading":"NEW ARRIVALS","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":false,"image_ratio":"adapt","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"secondary_image_max":1,"show_vendor":false,"show_rating":false,"show_quick_buy":false,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}},"b28385f8-c46c-41b6-93f9-18da03451a99":{"type":"collection-list","blocks":{"template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-0":{"type":"featured_collection","settings":{"collection":"outer","image_position":"center center"}},"template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-1":{"type":"featured_collection","settings":{"collection":"tops","image_position":"center center"}},"template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-2":{"type":"featured_collection","settings":{"collection":"tee","image_position":"center center"}},"dad28a06-8c69-46ed-9a10-a21de034c5e5":{"type":"featured_collection","settings":{"collection":"bottom","image_position":"center center"}},"de3c7e44-4221-45f1-a683-2b7d01ca0142":{"type":"featured_collection","settings":{"collection":"goods","image_position":"center center"}},"634ba903-3657-4177-b45f-a0bd032cd006":{"type":"featured_collection","settings":{"collection":"setup","image_position":"center center"}}},"block_order":["template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-0","template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-1","template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-2","dad28a06-8c69-46ed-9a10-a21de034c5e5","de3c7e44-4221-45f1-a683-2b7d01ca0142","634ba903-3657-4177-b45f-a0bd032cd006"],"settings":{"show_view_all":false,"show_divider":false,"heading":"CATEGORY","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":false,"image_ratio":"portrait","apply_overlay":true,"padding_top":52,"padding_bottom":52}},"3b7fdf4e-660a-4637-9753-45535c6e80d7":{"type":"featured-collection","disabled":true,"settings":{"collection":"tee","products_to_show":8,"show_view_all":true,"show_divider":false,"heading":"TEE","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"secondary_image_max":1,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}},"c4933348-43cc-4ab4-8cb9-7591fd63c58b":{"type":"featured-collection","disabled":true,"settings":{"collection":"tops","products_to_show":8,"show_view_all":true,"show_divider":false,"heading":"TOPS","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"adapt","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"secondary_image_max":1,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}},"fa286e48-eec9-4dc1-8696-06633ee16ee5":{"type":"featured-collection","disabled":true,"settings":{"collection":"bottom","products_to_show":8,"show_view_all":true,"show_divider":false,"heading":"BOTTOM","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"secondary_image_max":1,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}},"edfb4511-d7c5-454c-b1b9-35db2b0f0831":{"type":"recently-viewed-products","settings":{"show_divider":false,"heading":"最近チェックした商品","heading_size":"h2","heading_alignment":"left","heading_tag":"h2","columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"show_vendor":false,"show_rating":false,"show_quick_buy":false,"enable_quick_view":false,"enable_color_swatches":true,"enable_countdown":false,"padding_top":52,"padding_bottom":52}}},"order":["slideshow","featured-collection","66acfd37-4124-47ed-9656-7f28c702ceb3","67933b39-cfa5-47c2-9e50-ceab6e735619","b28385f8-c46c-41b6-93f9-18da03451a99","3b7fdf4e-660a-4637-9753-45535c6e80d7","c4933348-43cc-4ab4-8cb9-7591fd63c58b","fa286e48-eec9-4dc1-8696-06633ee16ee5","edfb4511-d7c5-454c-b1b9-35db2b0f0831"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WGONG_WEB1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WGONG-IPHONE-FV_0002_WGONG_SS06_0002_O1CN01GoRFle2MxVPk2VCX6__2209396279894-0-cib.jpg",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset2",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "e88036ed-6f8c-470e-8f73-0f6e57fb14af": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WGONG_WEB_PC_HEAD45.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WGONG-IPHONE_FV_0012_WGONG_LS08_0006__2023-03-30_17.47.59_14967609-8b72-4c0a-a7e5-0383abae9da3.jpg",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "8273e893-9220-4196-b44c-d830e02f08ad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WGONG_FV_PC-02.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WGONG-IPHONE_FV_0011_WGONG_PANTS_0009_O1CN0125OXvd1koqYwOpaS7__2207858474731-0-cib_2.jpg",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        },
+        "63b26f88-d7aa-4112-a8fd-18a9c56952ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WGONG_FV-PC_45-01.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/WGONG-IPHONE-FV_0003_WGONG_SS06_0001_O1CN01hAUX922MxVPpzTvzz__2209396279894-0-cib.jpg",
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "e88036ed-6f8c-470e-8f73-0f6e57fb14af",
+        "8273e893-9220-4196-b44c-d830e02f08ad",
+        "63b26f88-d7aa-4112-a8fd-18a9c56952ec"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "adapt_first",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt_first",
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "ranking",
+        "products_to_show": 32,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "WEEKLY RANKING TOP30",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "image_position": "center center",
+        "enable_image_fill": false,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": false,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "66acfd37-4124-47ed-9656-7f28c702ceb3": {
+      "type": "guarantees",
+      "blocks": {
+        "template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "return",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "無料でサイズ交換",
+            "title_size": "h4",
+            "text": "<p>ご購入前に<a href=\"https:\/\/line.me\/R\/oaMessage\/@999dwadz\" target=\"_blank\" title=\"公式LILNE\">公式LINE<\/a>よりサイズ相談頂いたお客様に限り、無料でサイズ交換可能です。<\/p>"
+          }
+        },
+        "template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "truck",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "¥15,000以上ご購入で送料無料",
+            "title_size": "h4",
+            "text": "<p>合計¥15,000以上ご購入いただいたお客様の送料無料キャンペーン実施中<\/p>"
+          }
+        },
+        "d0426cb7-e5db-4c18-abd6-46e4b2ade00c": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "price_tag",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "LINE登録で10%OFF",
+            "title_size": "h4",
+            "text": "<p>友達登録いただいたお客様<br\/>全員にプレゼント<\/p>"
+          }
+        },
+        "7e0ba804-78c8-4167-8fcd-499387d2c7af": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "stopwatch",
+            "icon_size": "large",
+            "custom_icon": "",
+            "title": "お届け時期",
+            "title_size": "h4",
+            "text": "<p>決済完了から14営業日以内にお届けいたします<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-1",
+        "template--18379266588974__66acfd37-4124-47ed-9656-7f28c702ceb3-16806112541c18d779-0",
+        "d0426cb7-e5db-4c18-abd6-46e4b2ade00c",
+        "7e0ba804-78c8-4167-8fcd-499387d2c7af"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "use_custom_colors": true,
+        "colors_icon": "#efefef",
+        "colors_text": "#1c1b1b",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
+    "67933b39-cfa5-47c2-9e50-ceab6e735619": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all-products",
+        "products_to_show": 12,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "NEW ARRIVALS",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": false,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "b28385f8-c46c-41b6-93f9-18da03451a99": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "outer",
+            "image_position": "center center"
+          }
+        },
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tops",
+            "image_position": "center center"
+          }
+        },
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tee",
+            "image_position": "center center"
+          }
+        },
+        "dad28a06-8c69-46ed-9a10-a21de034c5e5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bottom",
+            "image_position": "center center"
+          }
+        },
+        "de3c7e44-4221-45f1-a683-2b7d01ca0142": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "goods",
+            "image_position": "center center"
+          }
+        },
+        "634ba903-3657-4177-b45f-a0bd032cd006": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "setup",
+            "image_position": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-0",
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-1",
+        "template--18379266588974__b28385f8-c46c-41b6-93f9-18da03451a99-1680609485ec81cf28-2",
+        "dad28a06-8c69-46ed-9a10-a21de034c5e5",
+        "de3c7e44-4221-45f1-a683-2b7d01ca0142",
+        "634ba903-3657-4177-b45f-a0bd032cd006"
+      ],
+      "settings": {
+        "show_view_all": false,
+        "show_divider": false,
+        "heading": "CATEGORY",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "portrait",
+        "apply_overlay": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "3b7fdf4e-660a-4637-9753-45535c6e80d7": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "tee",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "TEE",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "c4933348-43cc-4ab4-8cb9-7591fd63c58b": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "tops",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "TOPS",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "fa286e48-eec9-4dc1-8696-06633ee16ee5": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "bottom",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "BOTTOM",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "edfb4511-d7c5-454c-b1b9-35db2b0f0831": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "show_divider": false,
+        "heading": "最近チェックした商品",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": false,
+        "enable_quick_view": false,
+        "enable_color_swatches": true,
+        "enable_countdown": false,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "66acfd37-4124-47ed-9656-7f28c702ceb3",
+    "67933b39-cfa5-47c2-9e50-ceab6e735619",
+    "b28385f8-c46c-41b6-93f9-18da03451a99",
+    "3b7fdf4e-660a-4637-9753-45535c6e80d7",
+    "c4933348-43cc-4ab4-8cb9-7591fd63c58b",
+    "fa286e48-eec9-4dc1-8696-06633ee16ee5",
+    "edfb4511-d7c5-454c-b1b9-35db2b0f0831"
+  ]
+}
