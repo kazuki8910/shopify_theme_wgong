@@ -507,7 +507,17 @@
       "contact": {
         "email_label": "メールアドレス（キャリアメール非推奨）",
         "email_placeholder": "メールアドレス（キャリアメール非推奨）"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "通知を受け取る",
+        "accept_sms_checkbox_label": "通知を受け取る"
       }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "marketing_section_title": "通知",
+      "marketing_checkbox_label": "通知を受け取る"
     }
   }
 }
