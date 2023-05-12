@@ -21,12 +21,6 @@
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
-        "5d41aedb-3bb5-45ed-ac84-fc0489175ac6": {
-          "type": "free_shipping",
-          "settings": {
-            "minimum_amount": "15000"
-          }
-        },
         "subtotal": {
           "type": "subtotal",
           "settings": {
@@ -39,7 +33,6 @@
         }
       },
       "block_order": [
-        "5d41aedb-3bb5-45ed-ac84-fc0489175ac6",
         "subtotal",
         "buttons"
       ],
