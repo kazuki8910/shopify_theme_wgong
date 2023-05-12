@@ -5,7 +5,7 @@
 .add_swym-button-collection {
   width: 30px !important;
   height: 30px !important;
-  background: rgba(235,235,235,.5) !important;
+  background: rgba(235,235,235,.75) !important;
   border-radius: 15px !important;
   position: absolute !important;
   top: auto !important;
@@ -22,7 +22,7 @@
 .add_swym-button-product {
   width: 50px !important;
   height: 50px !important;
-  background: rgba(235,235,235,.5) !important;
+  background: rgba(235,235,235,.75) !important;
   border-radius: 25px !important;
   position: absolute !important;
   opacity: 1 !important;
