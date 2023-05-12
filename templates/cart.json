@@ -27,7 +27,7 @@
         "buttons"
       ],
       "custom_css": [
-        ".xGd3h1QpIzYq8GCXdELr {display: none !important;}"
+        ".cart__dynamic-checkout-buttons {display: none !important;}"
       ],
       "settings": {
         "show_cart_note": false,
