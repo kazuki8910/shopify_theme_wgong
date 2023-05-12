@@ -32,20 +32,19 @@
   <div class="title-wrapper">
     <h1 class="title">{{ 'sections.cart.title' | t }}</h1>
     <a href="{{ routes.all_products_collection_url }}" class="link link--underline">{{ 'general.continue_shopping' | t }}</a>
-
-    {% comment %}送料無料の表記{% endcomment %}
-    {% assign free_price = 1500000 %}
-    {% assign cart_price = cart.total_price %}
-    {% assign display_price = free_price | minus: cart_price  %}
-    <p style="">
-      {% if display_price <= 0 %}
-        送料無料です！
-      {% else %}
-        あと{{ display_price | money }}円で送料無料になります。
-      {% endif %}
-    </p>
-    
   </div>
+  
+  {% comment %}送料無料の表記{% endcomment %}
+  {% assign free_price = 1500000 %}
+  {% assign cart_price = cart.total_price %}
+  {% assign display_price = free_price | minus: cart_price  %}
+  <p style="">
+    {% if display_price <= 0 %}
+      送料無料です！
+    {% else %}
+      あと{{ display_price | money }}円で送料無料になります。
+    {% endif %}
+  </p>
 
   <div class="cart__warnings">
     <p class="cart__empty-text h2">{{ 'sections.cart.empty' | t }}</p>
