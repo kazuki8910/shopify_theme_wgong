@@ -30,7 +30,7 @@
         ".cart__dynamic-checkout-buttons {display: none !important;}"
       ],
       "settings": {
-        "show_cart_note": false,
+        "show_cart_note": true,
         "padding_top": 36,
         "padding_bottom": 16
       }
