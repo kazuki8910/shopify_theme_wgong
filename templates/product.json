@@ -25,6 +25,12 @@
             "show_badges": true
           }
         },
+        "79b5df0b-637e-4a39-a009-c8864e20094b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "bbecd870-f269-4789-a079-620999ff65b3": {
           "type": "shopify:\/\/apps\/smartpay-on-site-messaging\/blocks\/product\/1bac79d2-c61c-4058-802a-53b76d9354ef",
           "settings": {
@@ -155,17 +161,12 @@
             "content": "<p>お客様にオススメなサイズをご購入前に提案させていただきます。ぜひ<a href=\"https:\/\/line.me\/R\/oaMessage\/@999dwadz\" target=\"_blank\" title=\"公式LINE\">公式LINE<\/a>よりご相談ください。<\/p><p>もし、商品到着後にサイズが合わなかった場合、無料でサイズ交換を受け付けております。<\/p><p>詳しくは<a href=\"\/pages\/return\" title=\"返品ポリシー\">返品ポリシー<\/a>をご確認ください。<\/p>",
             "page": ""
           }
-        },
-        "judgeme_preview_badge_product_page_ce550519": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "title",
         "price",
-        "judgeme_preview_badge_product_page_ce550519",
+        "79b5df0b-637e-4a39-a009-c8864e20094b",
         "bbecd870-f269-4789-a079-620999ff65b3",
         "variant_picker",
         "buy_buttons",
@@ -197,6 +198,25 @@
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "judgeme_section_review_widget_5798": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_07ebc170": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_07ebc170"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "ba34cfa9-042b-4700-a753-d46035b3d10f": {
@@ -347,22 +367,6 @@
         "gradient_background": "",
         "padding_top": 76,
         "padding_bottom": 100
-      }
-    },
-    "judgeme_section_review_widget_5798": {
-      "type": "apps",
-      "blocks": {
-        "judgeme_review_widget_07ebc170": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judgeme_review_widget_07ebc170"
-      ],
-      "settings": {
-        "include_margins": true
       }
     }
   },
