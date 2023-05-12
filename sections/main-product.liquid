@@ -533,7 +533,6 @@
               <h1 class="product__heading {{ block.settings.title_size }}">
                 {{ product.title | escape }}
               </h1>
-              {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', jm_style: '', concierge_install: true, product: product %}
               {%- if block.settings.show_price -%}
                 <div class="no-js-hidden" id="price-{{ section.id }}">
                   {%- liquid
@@ -1153,7 +1152,7 @@
     ]
   }
 </script>
-
+{% render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, product: product %}
 {% schema %}
 {
   "name": "t:sections.main-product.name",
