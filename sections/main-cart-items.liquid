@@ -31,8 +31,8 @@
 <cart-items class="page-width{% if cart == empty %} is-empty{% endif %} section--padding">
   <div class="title-wrapper">
     <h1 class="title" style="text-align: center;">{{ 'sections.cart.title' | t }}</h1>
+    {% comment %}<a href="{{ routes.all_products_collection_url }}" class="link link--underline">{{ 'general.continue_shopping' | t }}</a>{% endcomment %}
   </div>
-  <a href="{{ routes.all_products_collection_url }}" class="link link--underline">{{ 'general.continue_shopping' | t }}</a>
   
   {% comment %}送料無料の表記{% endcomment %}
   {% assign free_price = 1500000 %}
