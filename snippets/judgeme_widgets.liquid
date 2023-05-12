@@ -66,7 +66,6 @@ data-auto-install='{% if auto_install != nil %}{{ auto_install }}{% else %}false
 {% endif %}
 
 {% if widget_type == 'judgeme_preview_badge' %}
-  abc
 <div style='{{ jm_style }}' class='jdgm-widget jdgm-preview-badge' data-id='{{ product.id }}'
 data-template='{% if concierge_install == true or concierge_install == nil %}{{ template }}{% else %}manual-installation{% endif %}'
 data-auto-install='{% if auto_install != nil %}{{ auto_install }}{% else %}false{% endif %}'>
