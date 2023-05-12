@@ -8,6 +8,16 @@
         "padding_bottom": 0
       }
     },
+    "e567e2cd-64a5-473e-8b5a-3758d8028c81": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% assign free_price = 1500000 %}\n{% assign cart_price = cart.total_price %}\n{% assign display_price = free_price | minus: cart_price  %}\n\n<p style=\"\">\n{% if display_price <= 0 %}\n送料無料です！\n{% else %}\nあと{{ display_price | money }}円で送料無料になります。\n{% endif %}\n<\/p>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
@@ -123,6 +133,7 @@
   },
   "order": [
     "cart-items",
+    "e567e2cd-64a5-473e-8b5a-3758d8028c81",
     "cart-footer",
     "shipping-calculator",
     "16826431565c4b6d41",
