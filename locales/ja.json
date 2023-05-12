@@ -313,7 +313,7 @@
       "remove_title": "{{ title }}を削除する",
       "subtotal": "小計",
       "new_subtotal": "新しい小計",
-      "note": "あなたの注文に特記事項を追加する",
+      "note": "注文メモを追加",
       "note_placeholder": "いらっしゃいませ。",
       "checkout": "購入する",
       "empty": "現在カートには何も入っていません。",
