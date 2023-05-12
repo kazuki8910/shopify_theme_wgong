@@ -30,11 +30,12 @@
 
 <cart-items class="page-width{% if cart == empty %} is-empty{% endif %} section--padding">
   <div class="title-wrapper">
-    <h1 class="title" style="text-align: center;margin:0 auto;">{{ 'sections.cart.title' | t }}</h1>
-    {% comment %}<a href="{{ routes.all_products_collection_url }}" class="link link--underline">{{ 'general.continue_shopping' | t }}</a>{% endcomment %}
+    <h1 class="title" style="">{{ 'sections.cart.title' | t }}</h1>
+    <a href="{{ routes.all_products_collection_url }}" class="link link--underline">{{ 'general.continue_shopping' | t }}</a>
   </div>
   
   {% comment %}送料無料の表記{% endcomment %}
+  {% comment %}
   {% assign free_price = 1500000 %}
   {% assign cart_price = cart.total_price %}
   {% assign display_price = free_price | minus: cart_price  %}
@@ -45,7 +46,8 @@
       あと{{ display_price | money }}円で送料無料になります。
     {% endif %}
   </p>
-
+  {% endcomment %}
+  
   <div class="cart__warnings">
     <p class="cart__empty-text h2">{{ 'sections.cart.empty' | t }}</p>
     <a href="{{ routes.all_products_collection_url }}" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
