@@ -308,7 +308,7 @@
       }
     },
     "cart": {
-      "title": "あなたのカート",
+      "title": "カート",
       "caption": "カートにあるアイテム",
       "remove_title": "{{ title }}を削除する",
       "subtotal": "小計",
@@ -316,7 +316,7 @@
       "note": "あなたの注文に特記事項を追加する",
       "note_placeholder": "いらっしゃいませ。",
       "checkout": "購入する",
-      "empty": "現在あなたのカートには何も入っていません。",
+      "empty": "現在カートには何も入っていません。",
       "cart_error": "カートを更新する中エーラーが発生しました。お手数ですがもう一度試してください。",
       "cart_quantity_error_html": "カートにこのアイテムの{{ quantity }}個だけを追加することができます。",
       "taxes_and_shipping_policy_at_checkout_html": "税金と<a href=\"{{ link }}\">送料<\/a>はチェックアウト時に請求されます。",
@@ -502,7 +502,8 @@
       "throttle": {
         "merchandise": {
           "sold_out": "Sold Out"
-        }
+        },
+        "cart_summary_heading": "カート"
       },
       "contact": {
         "email_label": "メールアドレス（キャリアメール非推奨）",
