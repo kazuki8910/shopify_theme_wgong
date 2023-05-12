@@ -18,17 +18,17 @@
             "price_size": "medium"
           }
         },
+        "79b5df0b-637e-4a39-a009-c8864e20094b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', jm_style: '', concierge_install: false, product: product %}"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
             "price_size": "medium",
             "show_badges": true
-          }
-        },
-        "79b5df0b-637e-4a39-a009-c8864e20094b": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
           }
         },
         "bbecd870-f269-4789-a079-620999ff65b3": {
@@ -165,8 +165,8 @@
       },
       "block_order": [
         "title",
-        "price",
         "79b5df0b-637e-4a39-a009-c8864e20094b",
+        "price",
         "bbecd870-f269-4789-a079-620999ff65b3",
         "variant_picker",
         "buy_buttons",
