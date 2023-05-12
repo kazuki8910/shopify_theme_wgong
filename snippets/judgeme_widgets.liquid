@@ -2,12 +2,13 @@
 
 
 {% if widget_type == 'judgeme_review_widget' %}
-  abc
+<div style="padding:0 15px;">
 <div style='clear:both'></div>
 <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-product-title='{{ product.title | escape }}' data-id='{{ product.id }}'
 data-from-snippet='{% if concierge_install != nil  %}{{ concierge_install }}{% else %}true{% endif %}'
 data-auto-install='{% if auto_install != nil %}{{ auto_install }}{% else %}false{% endif %}'>
   {{ product.metafields.judgeme.widget }}
+</div>
 </div>
 {% endif %}
 
