@@ -62,12 +62,6 @@
             "show_dynamic_checkout": true
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "10801732-419d-4705-b115-2de69beca8cb": {
           "type": "custom_liquid",
           "settings": {
@@ -161,6 +155,12 @@
             "content": "<p>お客様にオススメなサイズをご購入前に提案させていただきます。ぜひ<a href=\"https:\/\/line.me\/R\/oaMessage\/@999dwadz\" target=\"_blank\" title=\"公式LINE\">公式LINE<\/a>よりご相談ください。<\/p><p>もし、商品到着後にサイズが合わなかった場合、無料でサイズ交換を受け付けております。<\/p><p>詳しくは<a href=\"\/pages\/return\" title=\"返品ポリシー\">返品ポリシー<\/a>をご確認ください。<\/p>",
             "page": ""
           }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -170,7 +170,6 @@
         "bbecd870-f269-4789-a079-620999ff65b3",
         "variant_picker",
         "buy_buttons",
-        "share",
         "10801732-419d-4705-b115-2de69beca8cb",
         "description",
         "ed9b1a94-726c-4a82-9662-e42a5c993ac6",
@@ -182,7 +181,8 @@
         "4c1be531-3475-47a1-a9f0-2aedc99afd8c",
         "eda068e8-d544-42ef-8f67-1a26154da3b8",
         "f80c2e01-cfd0-40ff-bbab-bb861b99279a",
-        "e1c9250d-0607-42cb-a1c1-5e4a8e61209f"
+        "e1c9250d-0607-42cb-a1c1-5e4a8e61209f",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": false,
