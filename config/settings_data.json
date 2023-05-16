@@ -122,7 +122,7 @@
           "mobile_logo": "shopify:\/\/shop_images\/Frame_2_868d9736-49dd-4229-9da7-141649eba0b7.png",
           "logo_height": 50,
           "mobile_logo_height": 44,
-          "logo_position": "middle-left",
+          "logo_position": "off-canvas",
           "menu": "main-menu",
           "enable_dropdown_menu": true,
           "show_line_separator": true,
