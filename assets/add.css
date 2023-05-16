@@ -1,7 +1,7 @@
 /* セット購入割引 */
 .cbb-frequently-bought-discount-message-container,
 .cbb-frequently-bought-total-price-box{
-  text-align:left;  
+  text-align:left !important;  
 }
 /* END：セット購入割引 */
 
