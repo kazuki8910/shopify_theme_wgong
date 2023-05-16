@@ -159,7 +159,7 @@
           "show_sticky_header_scroll_up": false,
           "enable_transparent_header": false,
           "enable_transparent_header_collection": false,
-          "enable_transparent_header_custom": "footer",
+          "enable_transparent_header_custom": "",
           "show_transparent_header_border": false,
           "transparent_text_color": "#ffffff",
           "mobile_logo_position": "center",
