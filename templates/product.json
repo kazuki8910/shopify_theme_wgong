@@ -161,12 +161,18 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "judgeme_preview_badge_product_page_e7200b5d": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "title",
         "79b5df0b-637e-4a39-a009-c8864e20094b",
         "price",
+        "judgeme_preview_badge_product_page_e7200b5d",
         "bbecd870-f269-4789-a079-620999ff65b3",
         "variant_picker",
         "buy_buttons",
